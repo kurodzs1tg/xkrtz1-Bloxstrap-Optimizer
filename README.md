@@ -1,5 +1,3 @@
-# xkrtz1's Bloxstrap Optimizer
-
 # Term Of Services (TOS)
 ## English
 - xkrtz1's Bloxstrap Optimizer is a tool for optimizes performance for Roblox, designed to improve your gaming experience in Roblox. By downloading, installing, using or accessing the tool, you agree to be bound by these terms of use (TOS). This tool does not guarantee that it will enhance your performance or reduce lag in game. We're still in beta/development so it may have contain bugs, errors, or other glitch that may affect your experience of Roblox
